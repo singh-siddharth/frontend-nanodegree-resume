@@ -1,5 +1,18 @@
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
 /*
 $("#main").append("Siddharth singh");.
 
@@ -17,6 +30,7 @@ console.log(some);
 console.log(awesome);
 
 $("#main").append(some); */
+/*
 var name = "siddharth";
 var role = "coder";
 var helpername = HTMLheaderName.replace("%data%","SIDDHARTH KUMAR SINGH");
@@ -48,8 +62,17 @@ education["name"]= "crpf";
 $("#header").append(work["years"]);
 $("#header").append(education.name);
 
+var something = {
+	{
+		"name": "siddharth",
+		"place": "delhi",
+		"animal": "dog",
+	},
+	{
+		"name": "brrrup",
+		"place": "pune";
+		"animal": "cats"
+	}
+}
 
-
-
-//console.log(helpername);
-//console.log(helperrole);
+*/
