@@ -25,13 +25,30 @@ $("#header").append(helpername);
 $("#header").append(helperrole);
 var bio = {
 	"name" : "Siddharth",
-	"Contact" : "\t \t \t \t 9873806518",
+	"Contact" : "\n 9873806518 \n ",
 	"message" : "HI, I need JOB , I WORK HARD",
 	"skills" : "AWESOMENESS",
 	"pic" : "images/fry.jpg"
 }
 
 $("#header").append(bio.Contact);
+
+var work ={};
+
+work.currentjob = "NIL";
+work.employer = "nobody";
+work.years = 0;
+work.city = "Delhi";
+
+var edcation={};
+
+education["school"]= "IITJ";
+education["name"]= "crpf";
+
+$("#header").append(work["years"]);
+$("#header").append(education.name);
+
+
 
 
 //console.log(helpername);
