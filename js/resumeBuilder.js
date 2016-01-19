@@ -1,3 +1,7 @@
+var work = {};
+var projects={};
+var bio= {};
+var education={};
 
 
 
