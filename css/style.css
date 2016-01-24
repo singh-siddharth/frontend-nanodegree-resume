@@ -138,11 +138,11 @@ a {
   flex-direction: row;
   flex-wrap: wrap;
   justify-content: space-around;
-  padding: 10px;
+  padding: 8px;
 }
 
 .center-content {
-  padding: 2.5% 5%;
+  padding: 2% 5%;
 }
 
 ul {
