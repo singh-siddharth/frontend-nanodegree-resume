@@ -40,7 +40,7 @@ for(works in intern){
 	$("#workExperience").append(HTMLworkEmployer.replace("%data%",intern[works]));
 	}
 
-
+$("#mapDiv").append(googleMap);
 
 
 
